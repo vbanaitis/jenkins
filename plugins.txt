@@ -7,3 +7,12 @@ pipeline-build-step:2.9
 ssh-slaves:1.29.4
 workflow-support:3.3
 ws-cleanup:0.37
+matrix-auth
+workflow-aggregator
+docker-workflow
+pipeline-utility-steps
+pipeline-model-definition
+pipeline-model-api
+pipeline-stage-step
+workflow-job
+pipeline-timeline
