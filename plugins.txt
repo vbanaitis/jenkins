@@ -16,3 +16,4 @@ pipeline-model-api
 pipeline-stage-step
 workflow-job
 pipeline-timeline
+pipeline-maven
